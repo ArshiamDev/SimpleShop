@@ -1,0 +1,4 @@
+﻿  Online Shop.cpp
+D:\c++\Online Shop\Online Shop\Online Shop.cpp(26,12): warning C4101: 'walletnumber': unreferenced local variable
+D:\c++\Online Shop\Online Shop\Online Shop.cpp(27,12): warning C4101: 'walletbalance': unreferenced local variable
+  Online Shop.vcxproj -> D:\c++\Online Shop\x64\Debug\Online Shop.exe
